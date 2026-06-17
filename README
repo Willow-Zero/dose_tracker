@@ -1,0 +1,9 @@
+# Dose Tracker
+
+This is a tool ive constructed to locally track dosages of various substances. This is intended to help keep track of alcohol consumption and prescription drugs. The end goal is to have a functioning model of roughly how much of a given substance is in a users body by tracking precise dosages. 
+
+This is not a medical tool, and I am not a doctor, this is mostly for my own interest. 
+
+While this will contain records and data for illicit and prescrition substances, I dont encourage people to do these, I plan to include them becuase they are interesting, have pharmacological effects, and people do them, so I might as well make my dumb little toy more useful. 
+
+
